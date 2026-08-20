@@ -1,0 +1,601 @@
+C:\Users\acer\source\repos\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\CarWashManagementSystem.exe.config
+C:\Users\acer\source\repos\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\CarWashManagementSystem.exe
+C:\Users\acer\source\repos\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\CarWashManagementSystem.pdb
+C:\Users\acer\source\repos\CarWashManagementSystem\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.MainForm.resources
+C:\Users\acer\source\repos\CarWashManagementSystem\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.Properties.Resources.resources
+C:\Users\acer\source\repos\CarWashManagementSystem\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.csproj.GenerateResource.cache
+C:\Users\acer\source\repos\CarWashManagementSystem\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\CarWashManagementSystem\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.exe
+C:\Users\acer\source\repos\CarWashManagementSystem\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.pdb
+C:\Users\acer\source\repos\CarWashManagementSystem\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.Employer.resources
+C:\Users\acer\source\repos\CarWashManagementSystem\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.EmployerModule.resources
+C:\Users\acer\source\repos\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\DBCarWash.mdf
+C:\Users\acer\source\repos\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\DBCarWash_log.ldf
+C:\Users\acer\source\repos\CarWashManagementSystem\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.ManageVehicleType.resources
+C:\Users\acer\source\repos\CarWashManagementSystem\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.Setting.resources
+C:\Users\acer\source\repos\CarWashManagementSystem\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.ManageCostofGoodSold.resources
+C:\Users\acer\source\repos\CarWashManagementSystem\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.Customer.resources
+C:\Users\acer\source\repos\CarWashManagementSystem\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.CustomerModule.resources
+C:\Users\acer\source\repos\CarWashManagementSystem\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.Service.resources
+C:\Users\acer\source\repos\CarWashManagementSystem\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.ServiceModule.resources
+C:\Users\acer\source\repos\CarWashManagementSystem\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.Cash.resources
+C:\Users\acer\source\repos\CarWashManagementSystem\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.CashCustomer.resources
+C:\Users\acer\source\repos\CarWashManagementSystem\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.CashService.resources
+C:\Users\acer\source\repos\CarWashManagementSystem\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.SettlePayment.resources
+C:\Users\acer\source\repos\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\acer\source\repos\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\acer\source\repos\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\acer\source\repos\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\acer\source\repos\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\acer\source\repos\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\acer\source\repos\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\acer\source\repos\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\acer\source\repos\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\acer\source\repos\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\acer\source\repos\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\EnvDTE.dll
+C:\Users\acer\source\repos\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\acer\source\repos\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\acer\source\repos\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\stdole.dll
+C:\Users\acer\source\repos\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\acer\source\repos\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\acer\source\repos\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\acer\source\repos\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\Microsoft.MSXML.dll
+C:\Users\acer\source\repos\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer\source\repos\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer\source\repos\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer\source\repos\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer\source\repos\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer\source\repos\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer\source\repos\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer\source\repos\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer\source\repos\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer\source\repos\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer\source\repos\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer\source\repos\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer\source\repos\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer\source\repos\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer\source\repos\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer\source\repos\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer\source\repos\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer\source\repos\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer\source\repos\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer\source\repos\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer\source\repos\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer\source\repos\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer\source\repos\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer\source\repos\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer\source\repos\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer\source\repos\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer\source\repos\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer\source\repos\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer\source\repos\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer\source\repos\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer\source\repos\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer\source\repos\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer\source\repos\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer\source\repos\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer\source\repos\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer\source\repos\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer\source\repos\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer\source\repos\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer\source\repos\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer\source\repos\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer\source\repos\CarWashManagementSystem\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.csproj.CopyComplete
+C:\Users\acer\source\repos\CarWashManagementSystem\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.receipt.resources
+C:\Users\acer\source\repos\CarWashManagementSystem\CarWashManagementSystem\obj\Debug\RdlCompile.cache
+C:\Users\acer\source\repos\CarWashManagementSystem\CarWashManagementSystem\obj\Debug\RdlCompile.compiled
+C:\Users\acer\source\repos\CarWashManagementSystem\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.Report.resources
+C:\Users\acer\source\repos\CarWashManagementSystem\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.Login.resources
+C:\Users\acer\source\repos\CarWashManagementSystem\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.Splash.resources
+C:\Users\acer\source\repos\CarWashManagementSystem\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\CarWashManagementSystem\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.Dashboard.resources
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\DBCarWash.mdf
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\DBCarWash_log.ldf
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\CarWashManagementSystem.exe.config
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\CarWashManagementSystem.exe
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\CarWashManagementSystem.pdb
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\EnvDTE.dll
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\stdole.dll
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\Microsoft.MSXML.dll
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.csproj.AssemblyReference.cache
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.Cash.resources
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.CashCustomer.resources
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.CashService.resources
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.Customer.resources
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.CustomerModule.resources
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.Dashboard.resources
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.Employer.resources
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.EmployerModule.resources
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.Login.resources
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.MainForm.resources
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.ManageCostofGoodSold.resources
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.ManageVehicleType.resources
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.Properties.Resources.resources
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.receipt.resources
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.Report.resources
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.Service.resources
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.ServiceModule.resources
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.Setting.resources
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.SettlePayment.resources
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.Splash.resources
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.csproj.GenerateResource.cache
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\obj\Debug\CarWashM.2D7AA957.Up2Date
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.exe
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.pdb
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\DBCarWash.mdf
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\DBCarWash_log.ldf
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\CarWashManagementSystem.exe.config
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\CarWashManagementSystem.exe
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\CarWashManagementSystem.pdb
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\EnvDTE.dll
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\stdole.dll
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\Microsoft.MSXML.dll
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.csproj.AssemblyReference.cache
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.Cash.resources
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.CashCustomer.resources
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.CashService.resources
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.Customer.resources
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.CustomerModule.resources
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.Dashboard.resources
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.Employer.resources
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.EmployerModule.resources
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.Login.resources
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.MainForm.resources
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.ManageCostofGoodSold.resources
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.ManageVehicleType.resources
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.Properties.Resources.resources
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.receipt.resources
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.Report.resources
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.Service.resources
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.ServiceModule.resources
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.Setting.resources
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.SettlePayment.resources
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.Splash.resources
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.csproj.GenerateResource.cache
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\CarWashManagementSystem\obj\Debug\CarWashM.2D7AA957.Up2Date
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.exe
+C:\Users\apurb\Desktop\CarWashManagementSystem\CarWashManagementSystem\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.pdb
+C:\Users\apurb\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\apurb\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\apurb\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\apurb\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\apurb\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\DBCarWash.mdf
+C:\Users\apurb\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\DBCarWash_log.ldf
+C:\Users\apurb\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\CarWashManagementSystem.exe.config
+C:\Users\apurb\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\CarWashManagementSystem.exe
+C:\Users\apurb\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\CarWashManagementSystem.pdb
+C:\Users\apurb\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\apurb\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\apurb\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\apurb\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\apurb\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\apurb\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\apurb\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\EnvDTE.dll
+C:\Users\apurb\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\stdole.dll
+C:\Users\apurb\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\Microsoft.MSXML.dll
+C:\Users\apurb\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\apurb\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\apurb\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\apurb\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\apurb\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\apurb\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\apurb\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\apurb\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\apurb\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\apurb\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\apurb\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\apurb\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\apurb\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\apurb\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\apurb\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\apurb\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\apurb\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\apurb\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\apurb\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\apurb\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\apurb\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\apurb\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\apurb\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\apurb\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\apurb\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\apurb\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\apurb\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\apurb\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\apurb\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\apurb\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\apurb\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\apurb\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\apurb\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\apurb\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\apurb\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\apurb\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\apurb\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\apurb\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\apurb\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\apurb\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\apurb\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.csproj.AssemblyReference.cache
+C:\Users\apurb\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.Cash.resources
+C:\Users\apurb\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.CashCustomer.resources
+C:\Users\apurb\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.CashService.resources
+C:\Users\apurb\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.Customer.resources
+C:\Users\apurb\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.CustomerModule.resources
+C:\Users\apurb\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.Dashboard.resources
+C:\Users\apurb\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.Employer.resources
+C:\Users\apurb\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.EmployerModule.resources
+C:\Users\apurb\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.Login.resources
+C:\Users\apurb\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.MainForm.resources
+C:\Users\apurb\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.ManageCostofGoodSold.resources
+C:\Users\apurb\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.ManageVehicleType.resources
+C:\Users\apurb\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.Properties.Resources.resources
+C:\Users\apurb\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.receipt.resources
+C:\Users\apurb\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.Report.resources
+C:\Users\apurb\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.Service.resources
+C:\Users\apurb\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.ServiceModule.resources
+C:\Users\apurb\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.Setting.resources
+C:\Users\apurb\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.SettlePayment.resources
+C:\Users\apurb\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.Splash.resources
+C:\Users\apurb\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.csproj.GenerateResource.cache
+C:\Users\apurb\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\apurb\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\obj\Debug\CarWashM.2D7AA957.Up2Date
+C:\Users\apurb\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.exe
+C:\Users\apurb\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.pdb
+C:\Users\apurb\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.exe.config
+C:\Users\apurb\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\apurb\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\apurb\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\apurb\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\apurb\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\DBCarWash.mdf
+C:\Users\apurb\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\DBCarWash_log.ldf
+C:\Users\apurb\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\CarWashManagementSystem.exe.config
+C:\Users\apurb\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\CarWashManagementSystem.exe
+C:\Users\apurb\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\CarWashManagementSystem.pdb
+C:\Users\apurb\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\apurb\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\apurb\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\apurb\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\apurb\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\apurb\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\apurb\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\EnvDTE.dll
+C:\Users\apurb\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\apurb\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\apurb\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\stdole.dll
+C:\Users\apurb\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\apurb\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\apurb\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\apurb\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\Microsoft.MSXML.dll
+C:\Users\apurb\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\apurb\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\apurb\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\apurb\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\apurb\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\apurb\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\apurb\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\apurb\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\apurb\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\apurb\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\apurb\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\apurb\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\apurb\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\apurb\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\apurb\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\apurb\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\apurb\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\apurb\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\apurb\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\apurb\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\apurb\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\apurb\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\apurb\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\apurb\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\apurb\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\apurb\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\apurb\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\apurb\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\apurb\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\apurb\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\apurb\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\apurb\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\apurb\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\apurb\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\apurb\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\apurb\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\apurb\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\apurb\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\apurb\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\apurb\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\apurb\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.csproj.AssemblyReference.cache
+C:\Users\apurb\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.Cash.resources
+C:\Users\apurb\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.CashCustomer.resources
+C:\Users\apurb\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.CashService.resources
+C:\Users\apurb\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.Customer.resources
+C:\Users\apurb\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.CustomerModule.resources
+C:\Users\apurb\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.Dashboard.resources
+C:\Users\apurb\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.Employer.resources
+C:\Users\apurb\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.EmployerModule.resources
+C:\Users\apurb\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.Login.resources
+C:\Users\apurb\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.MainForm.resources
+C:\Users\apurb\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.ManageCostofGoodSold.resources
+C:\Users\apurb\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.ManageVehicleType.resources
+C:\Users\apurb\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.Properties.Resources.resources
+C:\Users\apurb\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.receipt.resources
+C:\Users\apurb\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.Report.resources
+C:\Users\apurb\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.Service.resources
+C:\Users\apurb\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.ServiceModule.resources
+C:\Users\apurb\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.Setting.resources
+C:\Users\apurb\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.SettlePayment.resources
+C:\Users\apurb\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.Splash.resources
+C:\Users\apurb\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.csproj.GenerateResource.cache
+C:\Users\apurb\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\apurb\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\obj\Debug\CarWashM.2D7AA957.Up2Date
+C:\Users\apurb\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.exe
+C:\Users\apurb\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.pdb
+D:\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\EnvDTE.dll
+D:\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\stdole.dll
+D:\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\Microsoft.MSXML.dll
+D:\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CAR WASH AND MODIFICATION System\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.csproj.AssemblyReference.cache
+D:\CAR WASH AND MODIFICATION System\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.Cash.resources
+D:\CAR WASH AND MODIFICATION System\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.CashCustomer.resources
+D:\CAR WASH AND MODIFICATION System\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.CashService.resources
+D:\CAR WASH AND MODIFICATION System\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.Customer.resources
+D:\CAR WASH AND MODIFICATION System\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.CustomerModule.resources
+D:\CAR WASH AND MODIFICATION System\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.Dashboard.resources
+D:\CAR WASH AND MODIFICATION System\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.Employer.resources
+D:\CAR WASH AND MODIFICATION System\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.EmployerModule.resources
+D:\CAR WASH AND MODIFICATION System\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.Login.resources
+D:\CAR WASH AND MODIFICATION System\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.MainForm.resources
+D:\CAR WASH AND MODIFICATION System\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.ManageCostofGoodSold.resources
+D:\CAR WASH AND MODIFICATION System\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.ManageVehicleType.resources
+D:\CAR WASH AND MODIFICATION System\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.Properties.Resources.resources
+D:\CAR WASH AND MODIFICATION System\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.receipt.resources
+D:\CAR WASH AND MODIFICATION System\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.Report.resources
+D:\CAR WASH AND MODIFICATION System\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.Service.resources
+D:\CAR WASH AND MODIFICATION System\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.ServiceModule.resources
+D:\CAR WASH AND MODIFICATION System\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.Setting.resources
+D:\CAR WASH AND MODIFICATION System\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.SettlePayment.resources
+D:\CAR WASH AND MODIFICATION System\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.Splash.resources
+D:\CAR WASH AND MODIFICATION System\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.csproj.GenerateResource.cache
+D:\CAR WASH AND MODIFICATION System\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.csproj.CoreCompileInputs.cache
+D:\CAR WASH AND MODIFICATION System\CarWashManagementSystem\obj\Debug\CarWashM.2D7AA957.Up2Date
+D:\CAR WASH AND MODIFICATION System\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.exe
+D:\CAR WASH AND MODIFICATION System\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.pdb
+C:\Users\sheik\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\sheik\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\sheik\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\sheik\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\sheik\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\sheik\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\sheik\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\sheik\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\sheik\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\sheik\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\sheik\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\EnvDTE.dll
+C:\Users\sheik\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\sheik\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\sheik\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\stdole.dll
+C:\Users\sheik\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\sheik\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\sheik\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\sheik\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\Microsoft.MSXML.dll
+C:\Users\sheik\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\sheik\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\sheik\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\sheik\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\sheik\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\sheik\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\sheik\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\sheik\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\sheik\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\sheik\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\sheik\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\sheik\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\sheik\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\sheik\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\sheik\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\sheik\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\sheik\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\sheik\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\sheik\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\sheik\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\sheik\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\sheik\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\sheik\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\sheik\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\sheik\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\sheik\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\sheik\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\sheik\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\sheik\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\sheik\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\sheik\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\sheik\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\sheik\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\sheik\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\sheik\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\sheik\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\sheik\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\sheik\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\sheik\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\sheik\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\sheik\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.csproj.AssemblyReference.cache
+C:\Users\sheik\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.Cash.resources
+C:\Users\sheik\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.CashCustomer.resources
+C:\Users\sheik\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.CashService.resources
+C:\Users\sheik\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.Customer.resources
+C:\Users\sheik\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.CustomerModule.resources
+C:\Users\sheik\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.Dashboard.resources
+C:\Users\sheik\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.Employer.resources
+C:\Users\sheik\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.EmployerModule.resources
+C:\Users\sheik\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.Login.resources
+C:\Users\sheik\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.MainForm.resources
+C:\Users\sheik\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.ManageCostofGoodSold.resources
+C:\Users\sheik\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.ManageVehicleType.resources
+C:\Users\sheik\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.Properties.Resources.resources
+C:\Users\sheik\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.receipt.resources
+C:\Users\sheik\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.Report.resources
+C:\Users\sheik\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.Service.resources
+C:\Users\sheik\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.ServiceModule.resources
+C:\Users\sheik\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.Setting.resources
+C:\Users\sheik\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.SettlePayment.resources
+C:\Users\sheik\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.Splash.resources
+C:\Users\sheik\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.csproj.GenerateResource.cache
+C:\Users\sheik\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\sheik\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\obj\Debug\CarWashM.2D7AA957.Up2Date
+C:\Users\sheik\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.exe
+C:\Users\sheik\OneDrive\Desktop\CAR WASH AND MODIFICATION System\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.pdb
