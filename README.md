@@ -1,167 +1,110 @@
-🚗 Car Wash and Modification Management System
+# 🚗 Car Wash and Modification Management System
 
-A Windows desktop-based Car Wash and Modification Management System developed using C# Windows Forms. The application is designed to manage customers, vehicle types, services, employees, sales, payments, costs, and business reports for a car wash and modification business.
+A Windows desktop-based **Car Wash and Modification Management System** developed using **C# Windows Forms**. The application is designed to manage customers, vehicle types, services, employees, sales, payments, costs, and business reports for a car wash and modification business.
 
-The project uses Microsoft SQL Server LocalDB for database connectivity and includes RDLC reporting for generating business reports and receipts.
+The project uses **Microsoft SQL Server LocalDB** for database connectivity and includes **RDLC reporting** for generating business reports and receipts.
 
-📌 Features
+---
 
-🔐 Login & Authentication
+## 📌 Features
 
-User login system
+### 🔐 Login & Authentication
 
-Splash screen
+* User login system
+* Splash screen
+* Role-based employee management
+* Password-protected access
 
-Role-based employee management
+### 👥 Customer Management
 
-Password-protected access
+* Add new customers
+* Edit customer information
+* Delete customer records
+* Search customers
+* Store customer phone and address
+* Store vehicle number and vehicle model
+* Assign vehicle types to customers
+* Manage customer loyalty points
 
-👥 Customer Management
+### 🚘 Vehicle Type Management
 
-Add new customers
+* Add vehicle types
+* Edit vehicle types
+* Delete vehicle types
+* Search vehicle types
+* Categorize vehicles by class
 
-Edit customer information
+### 🧰 Service Management
 
-Delete customer records
+* Add car wash and modification services
+* Edit service information
+* Delete services
+* Search services
+* Set service prices
+* Validate service price input
 
-Search customers
+### 👨‍💼 Employee Management
 
-Store customer phone and address
+* Add employees
+* Edit employee information
+* Delete employee records
+* Search employees
+* Store phone, address, date of birth, gender, role, salary, and password
 
-Store vehicle number and vehicle model
+### 💰 Sales & Cash Management
 
-Assign vehicle types to customers
+* Manage customer and service sales
+* Record service transactions
+* Calculate service prices
+* Manage cash payments
+* Settle customer payments
+* Generate receipts
 
-Manage customer loyalty points
+### 💸 Cost Management
 
-🚘 Vehicle Type Management
+* Manage Cost of Goods Sold
+* Add business costs
+* Edit cost information
+* Delete cost records
+* Track costs by date
 
-Add vehicle types
-
-Edit vehicle types
-
-Delete vehicle types
-
-Search vehicle types
-
-Categorize vehicles by class
-
-🧰 Service Management
-
-Add car wash/modification services
-
-Edit service information
-
-Delete services
-
-Search services
-
-Set service prices
-
-Validate service price input
-
-👨‍💼 Employee Management
-
-Add employees
-
-Edit employee information
-
-Delete employee records
-
-Search employees
-
-Store phone, address, date of birth, gender, role, salary, and password
-
-💰 Sales & Cash Management
-
-Manage customer/service sales
-
-Record service transactions
-
-Calculate service prices
-
-Manage cash payments
-
-Settle customer payments
-
-Generate receipts
-
-💸 Cost Management
-
-Manage Cost of Goods Sold
-
-Add business costs
-
-Edit cost information
-
-Delete cost records
-
-Track costs by date
-
-📊 Reports & Business Analytics
+### 📊 Reports & Business Analytics
 
 The system provides business reports including:
 
-Top-selling services
+* Top-selling services
+* Revenue reports
+* Cost of Goods Sold reports
+* Gross profit calculation
+* Date-based report filtering
+* Receipt generation
 
-Revenue reports
+### ⚙️ Settings
 
-Cost of Goods Sold reports
+* Manage vehicle types
+* Manage Cost of Goods Sold
+* Manage company information
 
-Gross profit calculation
+---
 
-Date-based report filtering
+## 🛠️ Tech Stack
 
-Receipt generation
+| Technology                        | Purpose                      |
+| --------------------------------- | ---------------------------- |
+| C#                                | Application development      |
+| .NET Framework 4.8                | Application framework        |
+| Windows Forms                     | Desktop user interface       |
+| Microsoft SQL Server LocalDB      | Database                     |
+| ADO.NET / `System.Data.SqlClient` | Database connectivity        |
+| RDLC                              | Reports and receipts         |
+| Visual Studio                     | Development environment      |
+| Microsoft.SqlServer.Types         | SQL Server reporting support |
 
-⚙️ Settings
+---
 
-Manage vehicle types
+## 📂 Project Structure
 
-Manage Cost of Goods Sold
-
-Manage company information
-
-🛠️ Tech Stack
-
-Technology
-
-Purpose
-
-C#
-
-Application development
-
-.NET Framework 4.8
-
-Application framework
-
-Windows Forms
-
-Desktop user interface
-
-Microsoft SQL Server LocalDB
-
-Database
-
-ADO.NET / System.Data.SqlClient
-
-Database connectivity
-
-RDLC
-
-Reports and receipts
-
-Visual Studio
-
-Development environment
-
-SQL Server Types
-
-SQL Server spatial/reporting support
-
-📂 Project Structure
-
+```text
 CAR WASH AND MODIFICATION System/
 │
 ├── CarWashManagementSystem/
@@ -205,122 +148,149 @@ CAR WASH AND MODIFICATION System/
 │
 ├── CarWashManagementSystem.sln
 └── README.md
+```
 
-🗄️ Database
+---
 
-The application uses a SQL Server LocalDB .mdf database.
+## 🗄️ Database
 
-Database file:
+The application uses a **SQL Server LocalDB** database with an `.mdf` database file.
 
+### Database File
+
+```text
 DBCarWash.mdf
+```
 
-The application connects to the database through the dbConnect class using SqlConnection.
+The application connects to the database through the `dbConnect` class using `SqlConnection`.
 
 The system manages data related to:
 
-Customers
+* Customers
+* Vehicle Types
+* Services
+* Employees
+* Sales and Cash Transactions
+* Costs
+* Company Settings
 
-Vehicle Types
+---
 
-Services
-
-Employees
-
-Sales/Cash Transactions
-
-Costs
-
-Company Settings
-
-🔗 Database Connectivity
+## 🔗 Database Connectivity
 
 The project uses:
 
+```text
 System.Data.SqlClient
+```
 
 for communication between the Windows Forms application and SQL Server LocalDB.
 
 The main database connection is handled by:
 
+```text
 dbConnect.cs
+```
 
 The class provides methods for:
 
-Opening the connection
+* Opening the database connection
+* Closing the database connection
+* Executing SQL queries
+* Returning the SQL connection
 
-Closing the connection
+---
 
-Executing SQL queries
+# ⚙️ Project Setup
 
-Returning the SQL connection
+## 1. Install Visual Studio
 
-⚙️ Project Setup
+Install **Visual Studio** with the required desktop development workload.
 
-1. Install Visual Studio
+### Recommended
 
-Install Visual Studio with the required desktop development workload.
-
-Recommended:
-
+```text
 Visual Studio 2019 / 2022
 .NET Framework 4.8
+```
 
-2. Open the Solution
+---
 
-Open:
+## 2. Open the Solution
 
+Open the following solution file in Visual Studio:
+
+```text
 CarWashManagementSystem.sln
+```
 
-in Visual Studio.
+---
 
-3. Restore Required Packages
+## 3. Restore Required Packages
 
 The project uses packages including:
 
+```text
 Microsoft.ReportingServices.ReportViewerControl.Winforms
 Microsoft.SqlServer.Types
+```
 
-Restore the NuGet packages before building the project.
+Restore the required NuGet packages before building the project.
 
-4. Check Database Connection
+---
+
+## 4. Check Database Connection
 
 Open:
 
+```text
 CarWashManagementSystem/dbConnect.cs
+```
 
-The current connection uses SQL Server LocalDB and the project database:
+The project uses SQL Server LocalDB with the database:
 
+```text
 DBCarWash.mdf
+```
 
-If the project is moved to another computer, update the database file path inside dbConnect.cs so it points to the new location of DBCarWash.mdf.
+If the project is moved to another computer, update the database file path inside `dbConnect.cs` so that it points to the new location of `DBCarWash.mdf`.
 
-5. Build the Project
+---
 
-In Visual Studio:
+## 5. Build the Project
 
+In Visual Studio, select:
+
+```text
 Build
 → Build Solution
+```
 
-or press:
+Or press:
 
+```text
 Ctrl + Shift + B
+```
 
-6. Run the Application
+---
+
+## 6. Run the Application
 
 Press:
 
+```text
 F5
+```
 
-The application starts from the:
+The application starts from the **Splash Screen** and then opens the main application dashboard.
 
-Splash
+---
 
-screen and then opens the main application.
-
-🖥️ Main Modules
+# 🖥️ Main Modules
 
 The application contains the following major modules:
 
+```text
 Login
   ↓
 Splash Screen
@@ -334,69 +304,72 @@ Main Dashboard
   ├── Payments
   ├── Reports
   └── Settings
+```
 
-📊 Reporting
+---
 
-The project uses Microsoft ReportViewer / RDLC for reporting.
+# 📊 Reporting
 
-Report-related files include:
+The project uses **Microsoft ReportViewer / RDLC** for generating reports.
 
+### Report-related files
+
+```text
 Report.cs
 receipt.cs
 rptReceipt.rdlc
 DataSet1.xsd
+```
 
 The reporting module supports:
 
-Top-selling services
+* Top-selling services
+* Revenue analysis
+* Cost analysis
+* Gross profit calculation
+* Customer and service receipts
+* Date-range filtering
 
-Revenue analysis
+---
 
-Cost analysis
-
-Gross profit
-
-Customer/service receipts
-
-Date-range filtering
-
-🧾 Receipt Generation
+# 🧾 Receipt Generation
 
 The application includes a receipt generation module.
 
 The receipt functionality uses:
 
+```text
 receipt.cs
 rptReceipt.rdlc
+```
 
 to display and generate transaction receipts.
 
-🔍 Search & Validation
+---
+
+# 🔍 Search & Validation
 
 Several modules provide search and validation functionality.
 
 Examples include:
 
-Customer search
+* Customer search
+* Employee search
+* Service search
+* Vehicle type search
+* Required field validation
+* Numeric price validation
+* Date-based report filtering
 
-Employee search
+---
 
-Service search
+# 🎯 Project Objective
 
-Vehicle type search
+The main objective of this project is to provide a centralized desktop management solution for a **car wash and modification business**.
 
-Required field validation
+The main business workflow is:
 
-Numeric price validation
-
-Date-based report filtering
-
-🎯 Project Objective
-
-The main objective of this project is to provide a centralized desktop management solution for a car wash and modification business.
-
-The system helps manage:
-
+```text
 Customer
    ↓
 Vehicle
@@ -408,13 +381,26 @@ Sales / Payment
 Receipt
    ↓
 Reports
+```
 
-It reduces manual record keeping and provides a structured way to manage customers, employees, services, transactions, costs, and business performance.
+The system reduces manual record keeping and provides a structured way to manage:
 
-📸 Screenshots
+* Customers
+* Employees
+* Vehicles
+* Services
+* Transactions
+* Payments
+* Costs
+* Business reports
 
-You can add application screenshots to the repository using a screenshots folder:
+---
 
+# 📸 Screenshots
+
+You can add application screenshots to the repository using a `screenshots` folder:
+
+```text
 screenshots/
 ├── login.png
 ├── dashboard.png
@@ -424,9 +410,11 @@ screenshots/
 ├── employee.png
 ├── cash.png
 └── reports.png
+```
 
 Then display them in this section using:
 
+```markdown
 ![Login](screenshots/login.png)
 
 ![Dashboard](screenshots/dashboard.png)
@@ -434,68 +422,62 @@ Then display them in this section using:
 ![Customer Management](screenshots/customer.png)
 
 ![Reports](screenshots/reports.png)
+```
 
-🚀 Future Improvements
+---
+
+# 🚀 Future Improvements
 
 Possible improvements include:
 
-Online appointment/booking support
+* Online appointment and booking support
+* Automated SMS and email notifications
+* Online payment integration
+* Advanced customer loyalty system
+* Cloud database support
+* Improved role-based permissions
+* Advanced sales analytics
+* Automatic database backup
+* Modern user interface
 
-Automated SMS/email notifications
+---
 
-Online payment integration
-
-Advanced customer loyalty system
-
-Cloud database support
-
-Improved role-based permissions
-
-Advanced sales analytics
-
-Automatic database backup
-
-Modern responsive interface
-
-📚 Learning Outcomes
+# 📚 Learning Outcomes
 
 This project demonstrates practical experience with:
 
-C# programming
+* C# programming
+* Windows Forms development
+* Object-Oriented Programming (OOP)
+* SQL Server database integration
+* ADO.NET
+* CRUD operations
+* Form validation
+* Search functionality
+* Report generation
+* RDLC reporting
+* Desktop application architecture
+* Database-driven application development
 
-Windows Forms development
+---
 
-Object-oriented programming
+# 👨‍💻 Author
 
-SQL Server database integration
-
-ADO.NET
-
-CRUD operations
-
-Form validation
-
-Search functionality
-
-Report generation
-
-RDLC
-
-Desktop application architecture
-
-Database-driven application development
-
-👨‍💻 Author
-
-Sheikh Noor Uddin Bashar
+**Sheikh Noor Uddin Bashar**
 
 Department of Computer Science & Engineering
-American International University-Bangladesh (AIUB)
 
-GitHub:
+**American International University-Bangladesh (AIUB)**
 
+### GitHub
+
+```text
 https://github.com/sheikhnoor1
+```
 
-📄 License
+---
 
-This project was developed for academic and educational purposes.
+# 📄 License
+
+This project was developed for **academic and educational purposes**.
+
